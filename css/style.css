@@ -1,0 +1,29 @@
+*
+	{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	}
+
+.tog-sec
+	{
+	padding:20px;
+	}
+	
+img
+	{
+	height:100px;
+	width:100px;
+	}
+	
+.content
+	{
+	height:150px;
+	width:150px;
+	}
+	
+.butn
+	{
+	padding:5px 10px;
+	margin-bottom:20px;
+	}
